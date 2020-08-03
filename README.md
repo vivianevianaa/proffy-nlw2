@@ -3,7 +3,6 @@
 
 <p>Construíremos uma plataforma de estudos chamada "Proffy", com foco em HTML5, CSS3 e JavaScript. 🚀</p>
 <br>
-<br>
 
 ![Home da app](Home.png)
 
