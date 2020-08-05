@@ -1,8 +1,8 @@
 <h1> NLW#2 🚀 </h1>
-<p>Next Level Week #2, trilha Discovery, da Rocketseat.</p>
+<h3>Next Level Week #2, trilha Discovery, da Rocketseat.</h3>
 
-Construíremos uma plataforma de estudos chamada "Proffy", com foco em HTML5, CSS3 e JavaScript.
-<br>
+<p>Construíremos uma plataforma de estudos chamada "Proffy", com foco em HTML5, CSS3 e JavaScript. 🚀</p>
+
 ![Home da app](Home.png)
 
 
